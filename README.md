@@ -1,6 +1,6 @@
 Bem vindo(a) ao meu GitHub! ✨
 
-Me chamo Nícolas e sou estudante do 3° semestre de SI na Antonio Meneghetti Faculdade, atualmente tendo cadeiras de Estrutura de Dados, Banco de Dados(linguagem:Python) e Gerenciamento de Serviços de TI
+Me chamo Nícolas e sou estudante do 3° semestre de SI na Antonio Meneghetti Faculdade, atualmente tendo cadeiras de Estrutura de Dados, Banco de Dados(linguagem:Python) e Gerenciamento de Serviços de TI.
 
 Aqui postarei meus trabalhos, atividades e estudos voltados a códigos pessoais e da faculdade.
 
